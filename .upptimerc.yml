@@ -12,12 +12,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: System Status
   introTitle: "**Synthrop.AI** - Clarity Through Intelligence."
   introMessage: Synthrop.AI transforms corporate complexity into clarity and speed through intelligent AI agents that orchestrate data, decisions, and operations.
   navbar:
-    - title: Synthrop Status
-      href: /
+    - title: Synthrop AI
+      href: https://synthrop.ai
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
