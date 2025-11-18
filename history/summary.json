@@ -4,17 +4,17 @@
     "url": "https://synthrop.ai",
     "icon": "https://icons.duckduckgo.com/ip3/synthrop.ai.ico",
     "slug": "synthrop-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 429,
-    "timeWeek": 750,
-    "timeMonth": 925,
-    "timeYear": 789,
+    "time": 790,
+    "timeDay": 546,
+    "timeWeek": 774,
+    "timeMonth": 928,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   }
 ]
